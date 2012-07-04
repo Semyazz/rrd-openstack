@@ -8,7 +8,7 @@ from os import path
 import datetime
 import time
 
-class RrdManager:
+class RrdWrapper:
 
     cluster_name = ""
 
